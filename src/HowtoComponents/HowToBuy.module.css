@@ -1,0 +1,57 @@
+.mainDiv {
+  background-color: white;
+  margin: 0 auto;
+  width: 900px;
+  margin-top: 110px;
+}
+
+.control {
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  width: 900px;
+  box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+}
+
+.mainDiv img {
+  width: 400px;
+  left: 452px;
+  top: 867px;
+}
+
+.ulDiv h3 {
+  color: #202020;
+  opacity: 0.8;
+  font-weight: normal;
+  font-family: "Montserrat";
+  margin-left: 15px;
+}
+
+.ulDiv li {
+  list-style: none;
+  color: #202020;
+  opacity: 0.8;
+  font-family: "Montserrat";
+  margin-left: 15px;
+  margin-bottom: 25px;
+  display: flex;
+}
+
+.ulDiv h2 {
+  font-family: "Elsie Swash Caps";
+  font-weight: 900;
+  font-size: 42px;
+  color: #202020;
+  margin-bottom: 2px;
+  margin-top: 2px;
+  margin-left: 15px;
+}
+
+.ulDiv img {
+  width: 40px;
+  height: 40px;
+
+  border-radius: 100px;
+}

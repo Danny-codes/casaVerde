@@ -1,0 +1,30 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 10em;
+}
+
+.header ul {
+  list-style: none;
+  color: #202020;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.header li {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.header p {
+    color:#213E26;
+    font-size: 18px;
+    opacity: 0.8;
+}
+
+.logo2{
+    font-weight: bolder;
+}

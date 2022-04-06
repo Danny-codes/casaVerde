@@ -1,0 +1,78 @@
+.main{
+    width: 40%;
+    margin: 5em 5em 0em 10em;
+    color: #202020;
+}
+
+.main h3{
+    font-weight: normal;
+    line-height: 0px;
+    font-size: 22px;
+    font-family: 'Montserrat';
+    opacity: 0.5;
+
+}
+
+.main h1{
+    font-family: 'Elsie Swash Caps';
+    font-weight: 900;
+    font-size: 70px;
+    line-height: 60px;
+    max-width: 375px;
+}
+
+.main p {
+    font-size: 16px;
+    line-height: 26px;
+    font-family: 'Montserrat';
+    opacity: 0.5;
+}
+
+.div input{
+    width: 60%;
+    height: 60px;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    border: none;
+    font-family: 'Montserrat';
+}
+
+.div span{
+    height: 60px;
+    background: #FFFFFF;
+}
+
+.buttonAble{
+    width: 30%;
+    height: 60px;
+    border:none;
+    color: white;
+    background-color: #FFCB47;
+    font-family: 'Montserrat';
+}
+
+.buttonAble:hover{
+    background-color: #ff6347;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.main img {
+    position: absolute;
+width: 600px;
+height: 700px;
+left: 600px;
+top: 0px;
+}
+
+.disabledButton{
+    background-color: gray;
+    width: 30%;
+    height: 60px;
+    border:none;
+    color: white;
+    font-family: 'Montserrat';
+}

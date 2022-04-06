@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+body {
+  margin: 0;
+  background: url('./img/bg.jpg'),url('https://raw.githubusercontent.com/omariosouto/alura-challenge-react/83c1232df52c07c0657ebdcf177d96f10b435348/public/images/body-shape.svg') no-repeat;
+  background-size: 700px;
+  background-position: right  top ;
+  
+}
+
+

@@ -1,0 +1,74 @@
+.mainDiv {
+  margin-top: 500px;
+  text-align: center;
+}
+
+.mainDiv img {
+    width: 200px;
+    height: 200px;
+}
+
+.mainDiv ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+}
+
+.mainDiv li {
+  display: flex;
+  margin-top: 20px;
+  width: 379px;
+  height: 200px;
+  background: #ffffff;
+  box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+  text-align: left;
+  
+}
+
+.mainDiv div {
+    margin-left: 20px;
+  }
+
+.mainDiv li h1 {
+  font-size: 32px;
+  line-height: 37px;
+}
+
+.mainDiv li p {
+  font-family: "Montserrat";
+  color: #202020;
+  opacity: 0.5;
+}
+
+.mainDiv li button {
+  border: none;
+  background-color: white;
+  color: #FFCB47;
+  font-family: 'Montserrat';
+  font-size: 16px;
+  }
+
+  .mainDiv li button span{
+        margin-left: 20px;
+  
+    }
+
+.mainDiv h3 {
+  height: 27px;
+  font-family: "Montserrat";
+  font-size: 22px;
+  line-height: 27px;
+  color: #202020;
+  opacity: 0.5;
+  margin-bottom: -40px;
+}
+
+.mainDiv h1 {
+  font-family: "Elsie Swash Caps";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 70px;
+
+  color: #202020;
+}
